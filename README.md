@@ -1,1 +1,3 @@
 # rule_app
+本程序采用工厂模式创建，在有exchangeCode存在的时候，可以实现任意2个规则的信息上一次交易日和交割日的日期同步
+测试程序在TestRuleApp.java中
